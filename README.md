@@ -3,6 +3,10 @@
 - [กลุ่ม Construct 2 ของเรา](https://www.facebook.com/groups/Construct2TH)
 - [คอร์สเรียน Construct 2](https://www.youtube.com/@KongRuksiamOfficial/playlists?view=50&sort=dd&shelf_id=10)
 
+## 🚀 Guideline & Documents
+- แนวทางการเรียนรู้การพัฒนาเกม (Game Development) [อ่านบทความ](https://github.com/kongruksiamza/game-guideline)
+- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
+
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 <div id="badges">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
